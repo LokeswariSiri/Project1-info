@@ -1,0 +1,9 @@
+add popup:
+https://www.w3schools.com/howto/howto_js_popup.asp
+
+
+2.add switch.
+
+https://stackoverflow.com/questions/41129060/centering-text-on-either-side-of-a-toggle
+
+
